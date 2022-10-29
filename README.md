@@ -1,2 +1,2 @@
 # lessonJsOne
-hi hi
+hi
